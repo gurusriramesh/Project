@@ -9,7 +9,7 @@ public class Sample {
  public WebDriver driver;
  public void getdriver() {
 	 WebDrivermanager.chromedriver().setup();
- }
+driver2
  
 	
 	
